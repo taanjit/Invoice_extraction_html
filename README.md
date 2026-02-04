@@ -1,17 +1,16 @@
 # PDF Invoice Content Extractor
 
-A Python-based tool that extracts structured data from PDF invoice documents using OpenAI's Vision API. The tool supports both text-based and image-based (scanned) PDFs.
+A Python tool that extracts structured data from PDF invoices using OpenAI's Vision API and saves the results as both JSON and HTML formats.
 
 ## Features
 
-- **Multi-format PDF Support**: Handles both text-based PDFs and scanned/image-based invoices
-- **High-Resolution OCR**: Renders PDFs at 300 DPI for accurate text extraction
-- **AI-Powered Extraction**: Uses OpenAI GPT models to intelligently parse invoice data
-- **Dual Output Formats**: Generates both JSON and HTML outputs
-- **Data Validation**: Validates extracted values to ensure accuracy (rejects calculated values)
-- **Configurable Model**: Model selection via YAML configuration file
+- **PDF Processing**: Handles both text-based and image-based (scanned) PDFs
+- **OCR with Vision API**: Uses OpenAI GPT-4o for accurate text extraction from images
+- **High Resolution**: Renders PDFs at 300 DPI for optimal OCR quality
+- **Dual Output**: Generates both JSON and HTML output files
+- **Invoice-Specific**: Optimized prompts for extracting invoice line items
 
-## Output Structure
+## Output Format
 
 ### JSON Output
 ```json
@@ -27,7 +26,7 @@ A Python-based tool that extracts structured data from PDF invoice documents usi
       "_confidence": "high",
       "_flags": [],
       "_page": 5,
-      "_pdf": "invoice_filename"
+      "_pdf": "invoice_name"
     }
   ],
   "num_pages": 6,
@@ -35,51 +34,37 @@ A Python-based tool that extracts structured data from PDF invoice documents usi
 }
 ```
 
-### Fields Extracted
-| Field | Description |
-|-------|-------------|
-| `Description` | Product/item name |
-| `Total_Price_Text` | Line total (read directly from document) |
-| `Quantity_Text` | Quantity ordered |
-| `Unit_Text` | Unit of measurement (KG, BTL, PCS, etc.) |
-| `Unit_Price_Label` | Price per unit |
+### HTML Output
+Styled table view with all extracted invoice items.
 
-## Installation
+## Setup
 
-```bash
-# Create virtual environment
-python -m venv venv
-source venv/bin/activate
+1. **Install dependencies**:
+   ```bash
+   pip install -r requirements.txt
+   ```
 
-# Install dependencies
-pip install -r requirements.txt
-```
+2. **Configure OpenAI API key** in `.env`:
+   ```
+   OpenAi key : sk-your-api-key-here
+   ```
 
-## Configuration
-
-### Environment Variables
-Create a `.env` file with your OpenAI API key:
-```
-OpenAi key : sk-your-api-key-here
-```
-
-### Model Configuration
-Edit `config/model_config.yaml` to select the AI model:
-```yaml
-model:
-  name: "gpt-4.1-mini"
-```
+3. **Configure model** in `config/model_config.yaml`:
+   ```yaml
+   model:
+     name: "gpt-4o-mini"
+   ```
 
 ## Usage
 
-1. Place PDF files in the `data/` directory
-2. Run the extraction script:
-```bash
-python document_extraction.py
-```
-3. Find outputs in the project root:
-   - `{filename}_output.json` - Structured JSON data
-   - `{filename}_extracted.html` - Styled HTML table view
+1. Place PDF invoices in the `data/` directory
+2. Run the extraction:
+   ```bash
+   python document_extraction.py
+   ```
+3. Output files are saved in the project root:
+   - `{pdf_name}_output.json` - Structured JSON data
+   - `{pdf_name}_extracted.html` - Styled HTML table
 
 ## Project Structure
 
@@ -90,24 +75,11 @@ cms_document_reader/
 ├── data/                    # Input PDF files
 ├── document_extraction.py   # Main extraction script
 ├── requirements.txt         # Python dependencies
-├── .env                     # API key (not in version control)
+├── .env                     # API key configuration
 └── README.md
 ```
 
-## Dependencies
+## Requirements
 
-- `openai` - OpenAI API client
-- `PyMuPDF` (fitz) - PDF processing and rendering
-- `python-dotenv` - Environment variable management
-- `pyyaml` - YAML configuration parsing
-
-## Data Validation
-
-The tool includes validation to ensure `Total_Price_Text` is read directly from the document:
-- Values matching `Quantity × Unit_Price` are rejected as potentially calculated
-- Missing values are represented as `[]`
-- Only explicitly printed values are extracted
-
-## License
-
-MIT License
+- Python 3.8+
+- OpenAI API key with access to GPT-4o or GPT-4o-mini

@@ -211,11 +211,7 @@ If no invoice line items are found, return: {"items": []}"""
 
 
 def parse_json_response(content: str, pdf_name: str, page_num: int) -> list:
-    """Parse JSON response from OpenAI and format items with metadata.
-    
-    IMPORTANT: Total_Price_Text must be read directly from document.
-    If the value appears to be calculated (qty × unit_price), it is rejected.
-    """
+    """Parse JSON response from OpenAI and format items with metadata."""
     try:
         result = json.loads(content)
         
@@ -231,25 +227,12 @@ def parse_json_response(content: str, pdf_name: str, page_num: int) -> list:
         # Format items with required structure
         formatted_items = []
         for item in raw_items:
-            # Extract raw values
-            qty_raw = item.get("Quantity_Text", item.get("qty", item.get("quantity", None)))
-            unit_price_raw = item.get("Unit_Price_Label", item.get("unit_price", None))
-            total_price_raw = item.get("Total_Price_Text", item.get("total_price", None))
-            
-            # Convert to numbers for validation
-            qty = convert_to_number(qty_raw) if qty_raw is not None else None
-            unit_price = convert_to_number(unit_price_raw) if unit_price_raw is not None else None
-            total_price = convert_to_number(total_price_raw) if total_price_raw is not None else None
-            
-            # Validate Total_Price_Text - reject if it appears to be calculated
-            validated_total_price = validate_total_price(total_price, qty, unit_price)
-            
             formatted_item = {
                 "Description": str(item.get("Description", item.get("description", ""))),
-                "Total_Price_Text": validated_total_price,
-                "Quantity_Text": qty if qty is not None else [],
-                "Unit_Text": str(item.get("Unit_Text", item.get("unit", ""))) or [],
-                "Unit_Price_Label": unit_price if unit_price is not None else [],
+                "Total_Price_Text": convert_to_number(item.get("Total_Price_Text", item.get("total_price", 0))),
+                "Quantity_Text": convert_to_number(item.get("Quantity_Text", item.get("qty", item.get("quantity", 0)))),
+                "Unit_Text": str(item.get("Unit_Text", item.get("unit", ""))),
+                "Unit_Price_Label": convert_to_number(item.get("Unit_Price_Label", item.get("unit_price", 0))),
                 "_confidence": "high",
                 "_flags": [],
                 "_page": page_num,
@@ -262,42 +245,6 @@ def parse_json_response(content: str, pdf_name: str, page_num: int) -> list:
     except json.JSONDecodeError as e:
         print(f"      JSON Parse Error: {str(e)}")
         return []
-
-
-def validate_total_price(total_price, qty, unit_price):
-    """
-    Validate that Total_Price_Text is NOT a calculated value.
-    
-    If total_price equals qty × unit_price (within tolerance), 
-    it was likely calculated by the model and should be rejected.
-    
-    Returns:
-        - The original total_price if it appears to be read from document
-        - [] if the value is missing or appears to be calculated
-    """
-    # If total_price is missing or invalid, return []
-    if total_price is None or total_price == 0:
-        return []
-    
-    # If qty or unit_price is missing, we can't verify, so accept the value
-    if qty is None or unit_price is None or qty == 0 or unit_price == 0:
-        return total_price
-    
-    # Calculate what the product would be
-    calculated_value = qty * unit_price
-    
-    # Check if total_price matches the calculated value (within small tolerance for floating point)
-    # If they match exactly or very closely, it's likely calculated - reject it
-    tolerance = 0.01  # Allow for small floating point differences
-    
-    if abs(total_price - calculated_value) < tolerance:
-        # Value appears to be calculated - reject it
-        return []
-    
-    # Value doesn't match calculation - likely read from document
-    return total_price
-
-
 
 
 def convert_to_number(value):
