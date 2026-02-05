@@ -1,85 +1,83 @@
-# PDF Invoice Content Extractor
+# Invoice Data Extraction Tool
 
-A Python tool that extracts structured data from PDF invoices using OpenAI's Vision API and saves the results as both JSON and HTML formats.
+This tool extracts structured line-item data from invoice PDF documents using a combination of PDF parsing and Large Language Models (LLMs). It handles both digital (text-based) and scanned (image-based) PDFs.
 
 ## Features
 
-- **PDF Processing**: Handles both text-based and image-based (scanned) PDFs
-- **OCR with Vision API**: Uses OpenAI GPT-4o for accurate text extraction from images
-- **High Resolution**: Renders PDFs at 300 DPI for optimal OCR quality
-- **Dual Output**: Generates both JSON and HTML output files
-- **Invoice-Specific**: Optimized prompts for extracting invoice line items
+- **Dual Extraction Engine**: 
+  - **Text Mode**: Uses PyMuPDF for fast extraction from digital PDFs.
+  - **Vision Mode**: Automatically switches to OpenAI Vision for scanned or image-based invoices.
+- **Structured Data**: Extracts `line_number`, `description`, `amount`, `Quantity`, and `Unit_price`.
+- **JSON Output**: Produces standardized JSON results for easy integration.
+- **Multipage Support**: Processes all pages in a document while maintaining page-level metadata.
 
-## Output Format
+## Prerequisites
 
-### JSON Output
-```json
-{
-  "status": "success",
-  "items": [
-    {
-      "Description": "Coffee Nescafe Gold",
-      "Total_Price_Text": 60.6,
-      "Quantity_Text": 12,
-      "Unit_Text": "BTL",
-      "Unit_Price_Label": 5.05,
-      "_confidence": "high",
-      "_flags": [],
-      "_page": 5,
-      "_pdf": "invoice_name"
-    }
-  ],
-  "num_pages": 6,
-  "failed_pages": []
-}
-```
+- Python 3.8+
+- OpenAI API Key
 
-### HTML Output
-Styled table view with all extracted invoice items.
+## Installation
 
-## Setup
+1. **Clone the repository**:
+   ```bash
+   git clone <repository_url>
+   cd cms_document_reader
+   ```
 
-1. **Install dependencies**:
+2. **Install dependencies**:
    ```bash
    pip install -r requirements.txt
    ```
 
-2. **Configure OpenAI API key** in `.env`:
-   ```
+3. **Configuration**:
+   Create a `.env` file in the root directory with your OpenAI API key:
+   ```env
    OpenAi key : sk-your-api-key-here
    ```
-
-3. **Configure model** in `config/model_config.yaml`:
-   ```yaml
-   model:
-     name: "gpt-4o-mini"
-   ```
+   *Note: Ensure the key is prefixed with `sk-`.*
 
 ## Usage
 
-1. Place PDF invoices in the `data/` directory
-2. Run the extraction:
-   ```bash
-   python document_extraction.py
-   ```
-3. Output files are saved in the project root:
-   - `{pdf_name}_output.json` - Structured JSON data
-   - `{pdf_name}_extracted.html` - Styled HTML table
+Run the extraction script by providing the path to an invoice PDF:
+
+```bash
+python total_price_extraction.py data/your_invoice.pdf
+```
+
+### Example
+```bash
+python total_price_extraction.py data/MTBOWCHEETAHDN2025112425112705251059-1.pdf
+```
+
+## Output Format
+
+The tool saves a JSON file in the `output/` directory with the following structure:
+
+```json
+{
+  "status": "success",
+  "pdf_name": "filename",
+  "num_pages": 1,
+  "total_items": 45,
+  "amounts": [
+    {
+      "line_number": 1,
+      "description": "Biscuits Assorted Cookies",
+      "amount": 12.12,
+      "Quantity": 6.0,
+      "Unit_price": 2.02,
+      "_page": 1,
+      "_pdf": "filename"
+    }
+  ],
+  "failed_pages": []
+}
+```
 
 ## Project Structure
 
-```
-cms_document_reader/
-├── config/
-│   └── model_config.yaml    # Model configuration
-├── data/                    # Input PDF files
-├── document_extraction.py   # Main extraction script
-├── requirements.txt         # Python dependencies
-├── .env                     # API key configuration
-└── README.md
-```
-
-## Requirements
-
-- Python 3.8+
-- OpenAI API key with access to GPT-4o or GPT-4o-mini
+- `total_price_extraction.py`: Main execution script.
+- `config/model_config.yaml`: Configuration for the OpenAI model to use.
+- `data/`: Directory for input PDF documents.
+- `output/`: Directory where extracted JSON files are saved.
+- `requirements.txt`: Python package dependencies.

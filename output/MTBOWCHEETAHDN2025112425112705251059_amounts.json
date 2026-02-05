@@ -1,0 +1,2241 @@
+{
+  "status": "success",
+  "pdf_name": "MTBOWCHEETAHDN2025112425112705251059",
+  "num_pages": 6,
+  "total_items": 248,
+  "amounts": [
+    {
+      "line_number": 1,
+      "description": "Biscuits Assorted Cookies",
+      "amount": 12.12,
+      "Quantity": 6.0,
+      "Unit_price": 2.02,
+      "_page": 1,
+      "_pdf": "MTBOWCHEETAHDN2025112425112705251059"
+    },
+    {
+      "line_number": 2,
+      "description": "Biscuits Digestive",
+      "amount": 9.84,
+      "Quantity": 12.0,
+      "Unit_price": 0.82,
+      "_page": 1,
+      "_pdf": "MTBOWCHEETAHDN2025112425112705251059"
+    },
+    {
+      "line_number": 3,
+      "description": "Biscuits Ritz Salted",
+      "amount": 4.5,
+      "Quantity": 6.0,
+      "Unit_price": 0.75,
+      "_page": 1,
+      "_pdf": "MTBOWCHEETAHDN2025112425112705251059"
+    },
+    {
+      "line_number": 4,
+      "description": "Biscuits Cookies Danish",
+      "amount": 16.56,
+      "Quantity": 12.0,
+      "Unit_price": 1.38,
+      "_page": 1,
+      "_pdf": "MTBOWCHEETAHDN2025112425112705251059"
+    },
+    {
+      "line_number": 5,
+      "description": "Biscuits Chips Ahoy",
+      "amount": 21.12,
+      "Quantity": 24.0,
+      "Unit_price": 0.88,
+      "_page": 1,
+      "_pdf": "MTBOWCHEETAHDN2025112425112705251059"
+    },
+    {
+      "line_number": 6,
+      "description": "Gulab Jamun",
+      "amount": 30.6,
+      "Quantity": 12.0,
+      "Unit_price": 2.55,
+      "_page": 1,
+      "_pdf": "MTBOWCHEETAHDN2025112425112705251059"
+    },
+    {
+      "line_number": 7,
+      "description": "Haldiram Moong Dal",
+      "amount": 44.2,
+      "Quantity": 20.0,
+      "Unit_price": 2.21,
+      "_page": 1,
+      "_pdf": "MTBOWCHEETAHDN2025112425112705251059"
+    },
+    {
+      "line_number": 8,
+      "description": "Haldiram Plain Bhujia",
+      "amount": 44.2,
+      "Quantity": 20.0,
+      "Unit_price": 2.21,
+      "_page": 1,
+      "_pdf": "MTBOWCHEETAHDN2025112425112705251059"
+    },
+    {
+      "line_number": 9,
+      "description": "Lijjat Papad Black Pepper",
+      "amount": 13.26,
+      "Quantity": 6.0,
+      "Unit_price": 2.21,
+      "_page": 1,
+      "_pdf": "MTBOWCHEETAHDN2025112425112705251059"
+    },
+    {
+      "line_number": 10,
+      "description": "Lijjat Papad Jeera",
+      "amount": 13.26,
+      "Quantity": 6.0,
+      "Unit_price": 2.21,
+      "_page": 1,
+      "_pdf": "MTBOWCHEETAHDN2025112425112705251059"
+    },
+    {
+      "line_number": 11,
+      "description": "Bhoomi Motichoor Ladoo 200g",
+      "amount": 34.64,
+      "Quantity": 8.0,
+      "Unit_price": 4.33,
+      "_page": 1,
+      "_pdf": "MTBOWCHEETAHDN2025112425112705251059"
+    },
+    {
+      "line_number": 12,
+      "description": "Rasgulla",
+      "amount": 30.6,
+      "Quantity": 12.0,
+      "Unit_price": 2.55,
+      "_page": 1,
+      "_pdf": "MTBOWCHEETAHDN2025112425112705251059"
+    },
+    {
+      "line_number": 13,
+      "description": "Britannia Suji Rusk 305g",
+      "amount": 29.4,
+      "Quantity": 12.0,
+      "Unit_price": 2.45,
+      "_page": 1,
+      "_pdf": "MTBOWCHEETAHDN2025112425112705251059"
+    },
+    {
+      "line_number": 14,
+      "description": "Haldiram Soan Papdi 250g",
+      "amount": 18.9,
+      "Quantity": 6.0,
+      "Unit_price": 3.15,
+      "_page": 1,
+      "_pdf": "MTBOWCHEETAHDN2025112425112705251059"
+    },
+    {
+      "line_number": 15,
+      "description": "Alpen Muesli 400g",
+      "amount": 23.1,
+      "Quantity": 8.0,
+      "Unit_price": 3.85,
+      "_page": 1,
+      "_pdf": "MTBOWCHEETAHDN2025112425112705251059"
+    },
+    {
+      "line_number": 16,
+      "description": "Kellogg's Coco Pops",
+      "amount": 27.24,
+      "Quantity": 6.0,
+      "Unit_price": 4.54,
+      "_page": 1,
+      "_pdf": "MTBOWCHEETAHDN2025112425112705251059"
+    },
+    {
+      "line_number": 17,
+      "description": "Kellogg's Corn Flakes 250g",
+      "amount": 16.5,
+      "Quantity": 6.0,
+      "Unit_price": 2.75,
+      "_page": 1,
+      "_pdf": "MTBOWCHEETAHDN2025112425112705251059"
+    },
+    {
+      "line_number": 18,
+      "description": "Kellogg's Granola",
+      "amount": 26.46,
+      "Quantity": 6.0,
+      "Unit_price": 4.41,
+      "_page": 1,
+      "_pdf": "MTBOWCHEETAHDN2025112425112705251059"
+    },
+    {
+      "line_number": 19,
+      "description": "Oatmeal Quaker",
+      "amount": 9.24,
+      "Quantity": 6.0,
+      "Unit_price": 1.54,
+      "_page": 1,
+      "_pdf": "MTBOWCHEETAHDN2025112425112705251059"
+    },
+    {
+      "line_number": 20,
+      "description": "Cake Fresh",
+      "amount": 75.25,
+      "Quantity": 5.0,
+      "Unit_price": 15.05,
+      "_page": 1,
+      "_pdf": "MTBOWCHEETAHDN2025112425112705251059"
+    },
+    {
+      "line_number": 21,
+      "description": "Cocoa Powder",
+      "amount": 3.85,
+      "Quantity": 1.0,
+      "Unit_price": 3.85,
+      "_page": 1,
+      "_pdf": "MTBOWCHEETAHDN2025112425112705251059"
+    },
+    {
+      "line_number": 22,
+      "description": "Falooda Mix",
+      "amount": 57.0,
+      "Quantity": 25.0,
+      "Unit_price": 2.28,
+      "_page": 1,
+      "_pdf": "MTBOWCHEETAHDN2025112425112705251059"
+    },
+    {
+      "line_number": 23,
+      "description": "Bhoomi Kaju Katli 200g",
+      "amount": 57.5,
+      "Quantity": 10.0,
+      "Unit_price": 5.75,
+      "_page": 1,
+      "_pdf": "MTBOWCHEETAHDN2025112425112705251059"
+    },
+    {
+      "line_number": 24,
+      "description": "Cake Mix Chocolate",
+      "amount": 21.72,
+      "Quantity": 12.0,
+      "Unit_price": 1.81,
+      "_page": 1,
+      "_pdf": "MTBOWCHEETAHDN2025112425112705251059"
+    },
+    {
+      "line_number": 25,
+      "description": "Cake Mix Vanilla",
+      "amount": 8.28,
+      "Quantity": 6.0,
+      "Unit_price": 1.38,
+      "_page": 1,
+      "_pdf": "MTBOWCHEETAHDN2025112425112705251059"
+    },
+    {
+      "line_number": 26,
+      "description": "Swiss Cake Rolls",
+      "amount": 40.8,
+      "Quantity": 24.0,
+      "Unit_price": 1.7,
+      "_page": 1,
+      "_pdf": "MTBOWCHEETAHDN2025112425112705251059"
+    },
+    {
+      "line_number": 27,
+      "description": "Tutti Frutti",
+      "amount": 12.1,
+      "Quantity": 2.0,
+      "Unit_price": 6.05,
+      "_page": 1,
+      "_pdf": "MTBOWCHEETAHDN2025112425112705251059"
+    },
+    {
+      "line_number": 28,
+      "description": "Bread Brown Sliced",
+      "amount": 29.52,
+      "Quantity": 24.0,
+      "Unit_price": 1.23,
+      "_page": 1,
+      "_pdf": "MTBOWCHEETAHDN2025112425112705251059"
+    },
+    {
+      "line_number": 29,
+      "description": "Bread White Sliced",
+      "amount": 29.52,
+      "Quantity": 24.0,
+      "Unit_price": 1.23,
+      "_page": 1,
+      "_pdf": "MTBOWCHEETAHDN2025112425112705251059"
+    },
+    {
+      "line_number": 30,
+      "description": "Buns Burger",
+      "amount": 14.0,
+      "Quantity": 50.0,
+      "Unit_price": 0.28,
+      "_page": 1,
+      "_pdf": "MTBOWCHEETAHDN2025112425112705251059"
+    },
+    {
+      "line_number": 31,
+      "description": "Buns Pav",
+      "amount": 12.0,
+      "Quantity": 50.0,
+      "Unit_price": 0.24,
+      "_page": 1,
+      "_pdf": "MTBOWCHEETAHDN2025112425112705251059"
+    },
+    {
+      "line_number": 32,
+      "description": "Croissant Frozen 45g",
+      "amount": 33.0,
+      "Quantity": 60.0,
+      "Unit_price": 0.55,
+      "_page": 1,
+      "_pdf": "MTBOWCHEETAHDN2025112425112705251059"
+    },
+    {
+      "line_number": 33,
+      "description": "Pizza Base",
+      "amount": 48.0,
+      "Quantity": 60.0,
+      "Unit_price": 0.8,
+      "_page": 1,
+      "_pdf": "MTBOWCHEETAHDN2025112425112705251059"
+    },
+    {
+      "line_number": 34,
+      "description": "Q.F. Puff Pastry",
+      "amount": 10.08,
+      "Quantity": 2.0,
+      "Unit_price": 5.04,
+      "_page": 1,
+      "_pdf": "MTBOWCHEETAHDN2025112425112705251059"
+    },
+    {
+      "line_number": 35,
+      "description": "Samosa Chicken 400g/20's",
+      "amount": 0.0,
+      "Quantity": 4.0,
+      "Unit_price": 0.0,
+      "_page": 1,
+      "_pdf": "MTBOWCHEETAHDN2025112425112705251059"
+    },
+    {
+      "line_number": 36,
+      "description": "Samosa Veg",
+      "amount": 14.0,
+      "Quantity": 100.0,
+      "Unit_price": 0.14,
+      "_page": 1,
+      "_pdf": "MTBOWCHEETAHDN2025112425112705251059"
+    },
+    {
+      "line_number": 37,
+      "description": "Spring Roll Veg",
+      "amount": 3.52,
+      "Quantity": 8.0,
+      "Unit_price": 0.88,
+      "_page": 1,
+      "_pdf": "MTBOWCHEETAHDN2025112425112705251059"
+    },
+    {
+      "line_number": 38,
+      "description": "Chicken Nuggets",
+      "amount": 15.75,
+      "Quantity": 5.0,
+      "Unit_price": 3.15,
+      "_page": 1,
+      "_pdf": "MTBOWCHEETAHDN2025112425112705251059"
+    },
+    {
+      "line_number": 39,
+      "description": "Chicken Sausage Hot Dog",
+      "amount": 27.9,
+      "Quantity": 5.0,
+      "Unit_price": 5.58,
+      "_page": 1,
+      "_pdf": "MTBOWCHEETAHDN2025112425112705251059"
+    },
+    {
+      "line_number": 40,
+      "description": "Custard Powder",
+      "amount": 2.88,
+      "Quantity": 1.0,
+      "Unit_price": 2.88,
+      "_page": 1,
+      "_pdf": "MTBOWCHEETAHDN2025112425112705251059"
+    },
+    {
+      "line_number": 41,
+      "description": "Butter Milk Amul",
+      "amount": 146.4,
+      "Quantity": 30.0,
+      "Unit_price": 4.88,
+      "_page": 1,
+      "_pdf": "MTBOWCHEETAHDN2025112425112705251059"
+    },
+    {
+      "line_number": 42,
+      "description": "Cheese Mozzarella Grated 500g",
+      "amount": 20.88,
+      "Quantity": 6.0,
+      "Unit_price": 3.48,
+      "_page": 1,
+      "_pdf": "MTBOWCHEETAHDN2025112425112705251059"
+    },
+    {
+      "line_number": 43,
+      "description": "Cheese Sliced",
+      "amount": 23.38,
+      "Quantity": 6.0,
+      "Unit_price": 3.23,
+      "_page": 1,
+      "_pdf": "MTBOWCHEETAHDN2025112425112705251059"
+    },
+    {
+      "line_number": 44,
+      "description": "Coconut",
+      "amount": 2.25,
+      "Quantity": 3.0,
+      "Unit_price": 0.75,
+      "_page": 1,
+      "_pdf": "MTBOWCHEETAHDN2025112425112705251059"
+    },
+    {
+      "line_number": 45,
+      "description": "Cream/Whipping/For Cooking",
+      "amount": 40.92,
+      "Quantity": 6.0,
+      "Unit_price": 6.82,
+      "_page": 1,
+      "_pdf": "MTBOWCHEETAHDN2025112425112705251059"
+    },
+    {
+      "line_number": 46,
+      "description": "Curd / Plain Yoghurt Long Life",
+      "amount": 240.5,
+      "Quantity": 50.0,
+      "Unit_price": 4.81,
+      "_page": 2,
+      "_pdf": "MTBOWCHEETAHDN2025112425112705251059"
+    },
+    {
+      "line_number": 47,
+      "description": "Ice Cream Magnum Assorted",
+      "amount": 196.5,
+      "Quantity": 150.0,
+      "Unit_price": 1.31,
+      "_page": 2,
+      "_pdf": "MTBOWCHEETAHDN2025112425112705251059"
+    },
+    {
+      "line_number": 48,
+      "description": "Ice Cream Vanilla",
+      "amount": 11.05,
+      "Quantity": 5.0,
+      "Unit_price": 2.21,
+      "_page": 2,
+      "_pdf": "MTBOWCHEETAHDN2025112425112705251059"
+    },
+    {
+      "line_number": 49,
+      "description": "Ice Cream Strawberry",
+      "amount": 11.05,
+      "Quantity": 5.0,
+      "Unit_price": 2.21,
+      "_page": 2,
+      "_pdf": "MTBOWCHEETAHDN2025112425112705251059"
+    },
+    {
+      "line_number": 50,
+      "description": "Ice Cream Cornetto",
+      "amount": 19.5,
+      "Quantity": 25.0,
+      "Unit_price": 0.78,
+      "_page": 2,
+      "_pdf": "MTBOWCHEETAHDN2025112425112705251059"
+    },
+    {
+      "line_number": 51,
+      "description": "Lassi Amul 200ml",
+      "amount": 102.0,
+      "Quantity": 100.0,
+      "Unit_price": 1.02,
+      "_page": 2,
+      "_pdf": "MTBOWCHEETAHDN2025112425112705251059"
+    },
+    {
+      "line_number": 52,
+      "description": "Milk Condensed",
+      "amount": 7.08,
+      "Quantity": 6.0,
+      "Unit_price": 1.18,
+      "_page": 2,
+      "_pdf": "MTBOWCHEETAHDN2025112425112705251059"
+    },
+    {
+      "line_number": 53,
+      "description": "Milk Full Fat Long Life",
+      "amount": 387.5,
+      "Quantity": 250.0,
+      "Unit_price": 1.55,
+      "_page": 2,
+      "_pdf": "MTBOWCHEETAHDN2025112425112705251059"
+    },
+    {
+      "line_number": 54,
+      "description": "Yogurts-Fruit 100g",
+      "amount": 30.4,
+      "Quantity": 80.0,
+      "Unit_price": 0.38,
+      "_page": 2,
+      "_pdf": "MTBOWCHEETAHDN2025112425112705251059"
+    },
+    {
+      "line_number": 55,
+      "description": "Fillet Basa",
+      "amount": 34.8,
+      "Quantity": 10.0,
+      "Unit_price": 3.48,
+      "_page": 2,
+      "_pdf": "MTBOWCHEETAHDN2025112425112705251059"
+    },
+    {
+      "line_number": 56,
+      "description": "Fish King",
+      "amount": 28.8,
+      "Quantity": 10.0,
+      "Unit_price": 2.88,
+      "_page": 2,
+      "_pdf": "MTBOWCHEETAHDN2025112425112705251059"
+    },
+    {
+      "line_number": 57,
+      "description": "Fish Mackerel",
+      "amount": 36.6,
+      "Quantity": 15.0,
+      "Unit_price": 2.44,
+      "_page": 2,
+      "_pdf": "MTBOWCHEETAHDN2025112425112705251059"
+    },
+    {
+      "line_number": 58,
+      "description": "Fish Golden Pomfret",
+      "amount": 22.4,
+      "Quantity": 5.0,
+      "Unit_price": 4.48,
+      "_page": 2,
+      "_pdf": "MTBOWCHEETAHDN2025112425112705251059"
+    },
+    {
+      "line_number": 59,
+      "description": "Fish White Pomfret",
+      "amount": 43.3,
+      "Quantity": 10.0,
+      "Unit_price": 4.33,
+      "_page": 2,
+      "_pdf": "MTBOWCHEETAHDN2025112425112705251059"
+    },
+    {
+      "line_number": 60,
+      "description": "Fish Red Snapper",
+      "amount": 34.8,
+      "Quantity": 10.0,
+      "Unit_price": 3.48,
+      "_page": 2,
+      "_pdf": "MTBOWCHEETAHDN2025112425112705251059"
+    },
+    {
+      "line_number": 61,
+      "description": "Fish Salmon Whole Chile",
+      "amount": 138.8,
+      "Quantity": 10.0,
+      "Unit_price": 13.88,
+      "_page": 2,
+      "_pdf": "MTBOWCHEETAHDN2025112425112705251059"
+    },
+    {
+      "line_number": 62,
+      "description": "Fillet Salmon Smoked",
+      "amount": 118.8,
+      "Quantity": 10.0,
+      "Unit_price": 11.88,
+      "_page": 2,
+      "_pdf": "MTBOWCHEETAHDN2025112425112705251059"
+    },
+    {
+      "line_number": 63,
+      "description": "Shrimp Peeled",
+      "amount": 210.3,
+      "Quantity": 30.0,
+      "Unit_price": 7.01,
+      "_page": 2,
+      "_pdf": "MTBOWCHEETAHDN2025112425112705251059"
+    },
+    {
+      "line_number": 64,
+      "description": "Squid Rings",
+      "amount": 11.64,
+      "Quantity": 3.0,
+      "Unit_price": 3.88,
+      "_page": 2,
+      "_pdf": "MTBOWCHEETAHDN2025112425112705251059"
+    },
+    {
+      "line_number": 65,
+      "description": "Fish Tuna",
+      "amount": 28.8,
+      "Quantity": 10.0,
+      "Unit_price": 2.88,
+      "_page": 2,
+      "_pdf": "MTBOWCHEETAHDN2025112425112705251059"
+    },
+    {
+      "line_number": 66,
+      "description": "Tuna In Oil",
+      "amount": 25.92,
+      "Quantity": 24.0,
+      "Unit_price": 1.08,
+      "_page": 2,
+      "_pdf": "MTBOWCHEETAHDN2025112425112705251059"
+    },
+    {
+      "line_number": 67,
+      "description": "Apples Green",
+      "amount": 17.8,
+      "Quantity": 10.0,
+      "Unit_price": 1.78,
+      "_page": 2,
+      "_pdf": "MTBOWCHEETAHDN2025112425112705251059"
+    },
+    {
+      "line_number": 68,
+      "description": "Apples Red",
+      "amount": 37.6,
+      "Quantity": 20.0,
+      "Unit_price": 1.88,
+      "_page": 2,
+      "_pdf": "MTBOWCHEETAHDN2025112425112705251059"
+    },
+    {
+      "line_number": 69,
+      "description": "Avocado",
+      "amount": 76.8,
+      "Quantity": 10.0,
+      "Unit_price": 7.68,
+      "_page": 2,
+      "_pdf": "MTBOWCHEETAHDN2025112425112705251059"
+    },
+    {
+      "line_number": 70,
+      "description": "Bananas (Half Ripe)",
+      "amount": 24.0,
+      "Quantity": 20.0,
+      "Unit_price": 1.2,
+      "_page": 2,
+      "_pdf": "MTBOWCHEETAHDN2025112425112705251059"
+    },
+    {
+      "line_number": 71,
+      "description": "Dragon (White Heart)",
+      "amount": 20.2,
+      "Quantity": 10.0,
+      "Unit_price": 2.02,
+      "_page": 2,
+      "_pdf": "MTBOWCHEETAHDN2025112425112705251059"
+    },
+    {
+      "line_number": 72,
+      "description": "Grapes Green",
+      "amount": 14.4,
+      "Quantity": 5.0,
+      "Unit_price": 2.88,
+      "_page": 2,
+      "_pdf": "MTBOWCHEETAHDN2025112425112705251059"
+    },
+    {
+      "line_number": 73,
+      "description": "Grapes Red",
+      "amount": 14.4,
+      "Quantity": 5.0,
+      "Unit_price": 2.88,
+      "_page": 2,
+      "_pdf": "MTBOWCHEETAHDN2025112425112705251059"
+    },
+    {
+      "line_number": 74,
+      "description": "Guava",
+      "amount": 20.2,
+      "Quantity": 10.0,
+      "Unit_price": 2.02,
+      "_page": 2,
+      "_pdf": "MTBOWCHEETAHDN2025112425112705251059"
+    },
+    {
+      "line_number": 75,
+      "description": "Kiwi",
+      "amount": 37.8,
+      "Quantity": 15.0,
+      "Unit_price": 2.52,
+      "_page": 2,
+      "_pdf": "MTBOWCHEETAHDN2025112425112705251059"
+    },
+    {
+      "line_number": 76,
+      "description": "Lemons",
+      "amount": 16.7,
+      "Quantity": 5.0,
+      "Unit_price": 3.34,
+      "_page": 2,
+      "_pdf": "MTBOWCHEETAHDN2025112425112705251059"
+    },
+    {
+      "line_number": 77,
+      "description": "Mandarin",
+      "amount": 12.3,
+      "Quantity": 10.0,
+      "Unit_price": 1.23,
+      "_page": 2,
+      "_pdf": "MTBOWCHEETAHDN2025112425112705251059"
+    },
+    {
+      "line_number": 78,
+      "description": "Melon Honey Dew",
+      "amount": 30.6,
+      "Quantity": 20.0,
+      "Unit_price": 1.53,
+      "_page": 2,
+      "_pdf": "MTBOWCHEETAHDN2025112425112705251059"
+    },
+    {
+      "line_number": 79,
+      "description": "Melon Water",
+      "amount": 36.0,
+      "Quantity": 30.0,
+      "Unit_price": 1.2,
+      "_page": 2,
+      "_pdf": "MTBOWCHEETAHDN2025112425112705251059"
+    },
+    {
+      "line_number": 80,
+      "description": "Melons Sweet",
+      "amount": 22.95,
+      "Quantity": 15.0,
+      "Unit_price": 1.53,
+      "_page": 2,
+      "_pdf": "MTBOWCHEETAHDN2025112425112705251059"
+    },
+    {
+      "line_number": 81,
+      "description": "Oranges",
+      "amount": 30.8,
+      "Quantity": 20.0,
+      "Unit_price": 1.54,
+      "_page": 2,
+      "_pdf": "MTBOWCHEETAHDN2025112425112705251059"
+    },
+    {
+      "line_number": 82,
+      "description": "Papaya Raw",
+      "amount": 18.5,
+      "Quantity": 10.0,
+      "Unit_price": 1.85,
+      "_page": 2,
+      "_pdf": "MTBOWCHEETAHDN2025112425112705251059"
+    },
+    {
+      "line_number": 83,
+      "description": "Pears",
+      "amount": 21.6,
+      "Quantity": 20.0,
+      "Unit_price": 1.08,
+      "_page": 2,
+      "_pdf": "MTBOWCHEETAHDN2025112425112705251059"
+    },
+    {
+      "line_number": 84,
+      "description": "Pineapple",
+      "amount": 15.4,
+      "Quantity": 10.0,
+      "Unit_price": 1.54,
+      "_page": 2,
+      "_pdf": "MTBOWCHEETAHDN2025112425112705251059"
+    },
+    {
+      "line_number": 88,
+      "description": "Coconut Water",
+      "amount": 27.36,
+      "Quantity": 12.0,
+      "Unit_price": 2.28,
+      "_page": 2,
+      "_pdf": "MTBOWCHEETAHDN2025112425112705251059"
+    },
+    {
+      "line_number": 89,
+      "description": "Juice Apple",
+      "amount": 16.56,
+      "Quantity": 12.0,
+      "Unit_price": 1.38,
+      "_page": 2,
+      "_pdf": "MTBOWCHEETAHDN2025112425112705251059"
+    },
+    {
+      "line_number": 90,
+      "description": "Juice Fruit Cocktail",
+      "amount": 33.12,
+      "Quantity": 24.0,
+      "Unit_price": 1.38,
+      "_page": 2,
+      "_pdf": "MTBOWCHEETAHDN2025112425112705251059"
+    },
+    {
+      "line_number": 1,
+      "description": "Juice Grape",
+      "amount": 18.0,
+      "Quantity": 12.0,
+      "Unit_price": 1.5,
+      "_page": 3,
+      "_pdf": "MTBOWCHEETAHDN2025112425112705251059"
+    },
+    {
+      "line_number": 2,
+      "description": "Juice Guava",
+      "amount": 16.56,
+      "Quantity": 12.0,
+      "Unit_price": 1.38,
+      "_page": 3,
+      "_pdf": "MTBOWCHEETAHDN2025112425112705251059"
+    },
+    {
+      "line_number": 3,
+      "description": "Juice Litchie",
+      "amount": 43.44,
+      "Quantity": 24.0,
+      "Unit_price": 1.81,
+      "_page": 3,
+      "_pdf": "MTBOWCHEETAHDN2025112425112705251059"
+    },
+    {
+      "line_number": 4,
+      "description": "Juice Mango",
+      "amount": 16.56,
+      "Quantity": 12.0,
+      "Unit_price": 1.38,
+      "_page": 3,
+      "_pdf": "MTBOWCHEETAHDN2025112425112705251059"
+    },
+    {
+      "line_number": 5,
+      "description": "Juice Orange",
+      "amount": 18.96,
+      "Quantity": 12.0,
+      "Unit_price": 1.58,
+      "_page": 3,
+      "_pdf": "MTBOWCHEETAHDN2025112425112705251059"
+    },
+    {
+      "line_number": 6,
+      "description": "Juice Tomato",
+      "amount": 20.4,
+      "Quantity": 12.0,
+      "Unit_price": 1.7,
+      "_page": 3,
+      "_pdf": "MTBOWCHEETAHDN2025112425112705251059"
+    },
+    {
+      "line_number": 7,
+      "description": "Tinned Fruit Cocktail",
+      "amount": 7.2,
+      "Quantity": 12.0,
+      "Unit_price": 0.6,
+      "_page": 3,
+      "_pdf": "MTBOWCHEETAHDN2025112425112705251059"
+    },
+    {
+      "line_number": 8,
+      "description": "Mango Pulp",
+      "amount": 27.24,
+      "Quantity": 6.0,
+      "Unit_price": 4.54,
+      "_page": 3,
+      "_pdf": "MTBOWCHEETAHDN2025112425112705251059"
+    },
+    {
+      "line_number": 9,
+      "description": "Red Cherries",
+      "amount": 10.86,
+      "Quantity": 6.0,
+      "Unit_price": 1.81,
+      "_page": 3,
+      "_pdf": "MTBOWCHEETAHDN2025112425112705251059"
+    },
+    {
+      "line_number": 10,
+      "description": "Lamb Legs Boneless",
+      "amount": 231.6,
+      "Quantity": 20.0,
+      "Unit_price": 11.58,
+      "_page": 3,
+      "_pdf": "MTBOWCHEETAHDN2025112425112705251059"
+    },
+    {
+      "line_number": 11,
+      "description": "Mutton Legs Bone In",
+      "amount": 355.2,
+      "Quantity": 40.0,
+      "Unit_price": 8.88,
+      "_page": 3,
+      "_pdf": "MTBOWCHEETAHDN2025112425112705251059"
+    },
+    {
+      "line_number": 12,
+      "description": "Haldiram Snack Boondi",
+      "amount": 26.52,
+      "Quantity": 12.0,
+      "Unit_price": 2.21,
+      "_page": 3,
+      "_pdf": "MTBOWCHEETAHDN2025112425112705251059"
+    },
+    {
+      "line_number": 13,
+      "description": "Mix Gulab Jamun",
+      "amount": 30.24,
+      "Quantity": 12.0,
+      "Unit_price": 2.52,
+      "_page": 3,
+      "_pdf": "MTBOWCHEETAHDN2025112425112705251059"
+    },
+    {
+      "line_number": 14,
+      "description": "Mix Jalebi",
+      "amount": 10.86,
+      "Quantity": 6.0,
+      "Unit_price": 1.81,
+      "_page": 3,
+      "_pdf": "MTBOWCHEETAHDN2025112425112705251059"
+    },
+    {
+      "line_number": 15,
+      "description": "Popcorn Microwave",
+      "amount": 6.6,
+      "Quantity": 12.0,
+      "Unit_price": 0.55,
+      "_page": 3,
+      "_pdf": "MTBOWCHEETAHDN2025112425112705251059"
+    },
+    {
+      "line_number": 16,
+      "description": "Soup Powder Asparagus",
+      "amount": 8.88,
+      "Quantity": 1.0,
+      "Unit_price": 8.88,
+      "_page": 3,
+      "_pdf": "MTBOWCHEETAHDN2025112425112705251059"
+    },
+    {
+      "line_number": 17,
+      "description": "Soup Powder Tomato",
+      "amount": 7.58,
+      "Quantity": 1.0,
+      "Unit_price": 7.58,
+      "_page": 3,
+      "_pdf": "MTBOWCHEETAHDN2025112425112705251059"
+    },
+    {
+      "line_number": 18,
+      "description": "Butter Unsalted Amul 250g",
+      "amount": 192.4,
+      "Quantity": 40.0,
+      "Unit_price": 4.81,
+      "_page": 3,
+      "_pdf": "MTBOWCHEETAHDN2025112425112705251059"
+    },
+    {
+      "line_number": 19,
+      "description": "Butter Peanut",
+      "amount": 7.38,
+      "Quantity": 6.0,
+      "Unit_price": 1.23,
+      "_page": 3,
+      "_pdf": "MTBOWCHEETAHDN2025112425112705251059"
+    },
+    {
+      "line_number": 20,
+      "description": "Ghee Amul",
+      "amount": 185.4,
+      "Quantity": 12.0,
+      "Unit_price": 15.45,
+      "_page": 3,
+      "_pdf": "MTBOWCHEETAHDN2025112425112705251059"
+    },
+    {
+      "line_number": 21,
+      "description": "Oil Coconut",
+      "amount": 14.36,
+      "Quantity": 2.0,
+      "Unit_price": 7.18,
+      "_page": 3,
+      "_pdf": "MTBOWCHEETAHDN2025112425112705251059"
+    },
+    {
+      "line_number": 22,
+      "description": "Oil Olive Blended",
+      "amount": 4.41,
+      "Quantity": 1.0,
+      "Unit_price": 4.41,
+      "_page": 3,
+      "_pdf": "MTBOWCHEETAHDN2025112425112705251059"
+    },
+    {
+      "line_number": 23,
+      "description": "Sunflower Oil",
+      "amount": 152.6,
+      "Quantity": 70.0,
+      "Unit_price": 2.18,
+      "_page": 3,
+      "_pdf": "MTBOWCHEETAHDN2025112425112705251059"
+    },
+    {
+      "line_number": 24,
+      "description": "Maggi Cream Corn Soup",
+      "amount": 10.8,
+      "Quantity": 1.0,
+      "Unit_price": 10.8,
+      "_page": 3,
+      "_pdf": "MTBOWCHEETAHDN2025112425112705251059"
+    },
+    {
+      "line_number": 25,
+      "description": "Maggi Instant Noodle Masala",
+      "amount": 63.0,
+      "Quantity": 100.0,
+      "Unit_price": 0.63,
+      "_page": 3,
+      "_pdf": "MTBOWCHEETAHDN2025112425112705251059"
+    },
+    {
+      "line_number": 26,
+      "description": "Roasted Vermicelli",
+      "amount": 19.8,
+      "Quantity": 12.0,
+      "Unit_price": 1.65,
+      "_page": 3,
+      "_pdf": "MTBOWCHEETAHDN2025112425112705251059"
+    },
+    {
+      "line_number": 27,
+      "description": "Spaghetti",
+      "amount": 6.12,
+      "Quantity": 6.0,
+      "Unit_price": 1.02,
+      "_page": 3,
+      "_pdf": "MTBOWCHEETAHDN2025112425112705251059"
+    },
+    {
+      "line_number": 28,
+      "description": "Olives Black Pitted",
+      "amount": 6.39,
+      "Quantity": 3.0,
+      "Unit_price": 2.13,
+      "_page": 3,
+      "_pdf": "MTBOWCHEETAHDN2025112425112705251059"
+    },
+    {
+      "line_number": 29,
+      "description": "Haldiram Punjabi Masala Papad",
+      "amount": 12.66,
+      "Quantity": 6.0,
+      "Unit_price": 2.11,
+      "_page": 3,
+      "_pdf": "MTBOWCHEETAHDN2025112425112705251059"
+    },
+    {
+      "line_number": 30,
+      "description": "Vinegar White",
+      "amount": 1.65,
+      "Quantity": 3.0,
+      "Unit_price": 0.55,
+      "_page": 3,
+      "_pdf": "MTBOWCHEETAHDN2025112425112705251059"
+    },
+    {
+      "line_number": 31,
+      "description": "Pork Bacon Smoked Sliced",
+      "amount": 15.12,
+      "Quantity": 3.0,
+      "Unit_price": 5.04,
+      "_page": 3,
+      "_pdf": "MTBOWCHEETAHDN2025112425112705251059"
+    },
+    {
+      "line_number": 32,
+      "description": "Pork Chops",
+      "amount": 8.36,
+      "Quantity": 2.0,
+      "Unit_price": 4.18,
+      "_page": 3,
+      "_pdf": "MTBOWCHEETAHDN2025112425112705251059"
+    },
+    {
+      "line_number": 33,
+      "description": "Chicken Breast Boneless",
+      "amount": 44.2,
+      "Quantity": 20.0,
+      "Unit_price": 2.21,
+      "_page": 3,
+      "_pdf": "MTBOWCHEETAHDN2025112425112705251059"
+    },
+    {
+      "line_number": 34,
+      "description": "Chicken Drumstick",
+      "amount": 69.9,
+      "Quantity": 30.0,
+      "Unit_price": 2.33,
+      "_page": 3,
+      "_pdf": "MTBOWCHEETAHDN2025112425112705251059"
+    },
+    {
+      "line_number": 35,
+      "description": "Chicken Legs",
+      "amount": 20.2,
+      "Quantity": 10.0,
+      "Unit_price": 2.02,
+      "_page": 3,
+      "_pdf": "MTBOWCHEETAHDN2025112425112705251059"
+    },
+    {
+      "line_number": 36,
+      "description": "Chicken Patties",
+      "amount": 17.4,
+      "Quantity": 5.0,
+      "Unit_price": 3.48,
+      "_page": 3,
+      "_pdf": "MTBOWCHEETAHDN2025112425112705251059"
+    },
+    {
+      "line_number": 37,
+      "description": "Chicken Whole",
+      "amount": 319.5,
+      "Quantity": 150.0,
+      "Unit_price": 2.13,
+      "_page": 3,
+      "_pdf": "MTBOWCHEETAHDN2025112425112705251059"
+    },
+    {
+      "line_number": 38,
+      "description": "Chicken Wings",
+      "amount": 38.8,
+      "Quantity": 10.0,
+      "Unit_price": 3.88,
+      "_page": 3,
+      "_pdf": "MTBOWCHEETAHDN2025112425112705251059"
+    },
+    {
+      "line_number": 39,
+      "description": "Eggs Chicken",
+      "amount": 86.4,
+      "Quantity": 720.0,
+      "Unit_price": 0.12,
+      "_page": 3,
+      "_pdf": "MTBOWCHEETAHDN2025112425112705251059"
+    },
+    {
+      "line_number": 40,
+      "description": "Turkey Oven Ready",
+      "amount": 68.08,
+      "Quantity": 8.0,
+      "Unit_price": 8.51,
+      "_page": 3,
+      "_pdf": "MTBOWCHEETAHDN2025112425112705251059"
+    },
+    {
+      "line_number": 41,
+      "description": "Honey",
+      "amount": 13.74,
+      "Quantity": 3.0,
+      "Unit_price": 4.58,
+      "_page": 3,
+      "_pdf": "MTBOWCHEETAHDN2025112425112705251059"
+    },
+    {
+      "line_number": 42,
+      "description": "Spread Hazelnut Chocolate",
+      "amount": 10.65,
+      "Quantity": 3.0,
+      "Unit_price": 3.55,
+      "_page": 3,
+      "_pdf": "MTBOWCHEETAHDN2025112425112705251059"
+    },
+    {
+      "line_number": 43,
+      "description": "Basmati Rice Kohinoor Authentic",
+      "amount": 309.1,
+      "Quantity": 110.0,
+      "Unit_price": 2.81,
+      "_page": 3,
+      "_pdf": "MTBOWCHEETAHDN2025112425112705251059"
+    },
+    {
+      "line_number": 44,
+      "description": "Flour All Purpose / Maida",
+      "amount": 86.4,
+      "Quantity": 30.0,
+      "Unit_price": 2.88,
+      "_page": 3,
+      "_pdf": "MTBOWCHEETAHDN2025112425112705251059"
+    },
+    {
+      "line_number": 45,
+      "description": "Flour Gram / Besan",
+      "amount": 31.5,
+      "Quantity": 3.0,
+      "Unit_price": 3.15,
+      "_page": 3,
+      "_pdf": "MTBOWCHEETAHDN2025112425112705251059"
+    },
+    {
+      "line_number": 1,
+      "description": "Flour Rice",
+      "amount": 6.15,
+      "Quantity": 5.0,
+      "Unit_price": 1.23,
+      "_page": 4,
+      "_pdf": "MTBOWCHEETAHDN2025112425112705251059"
+    },
+    {
+      "line_number": 2,
+      "description": "Flour Wheat / Atta Pillsbury",
+      "amount": 132.6,
+      "Quantity": 60.0,
+      "Unit_price": 2.21,
+      "_page": 4,
+      "_pdf": "MTBOWCHEETAHDN2025112425112705251059"
+    },
+    {
+      "line_number": 3,
+      "description": "Rice Idli",
+      "amount": 114.0,
+      "Quantity": 30.0,
+      "Unit_price": 3.8,
+      "_page": 4,
+      "_pdf": "MTBOWCHEETAHDN2025112425112705251059"
+    },
+    {
+      "line_number": 4,
+      "description": "Rice Poha",
+      "amount": 31.5,
+      "Quantity": 10.0,
+      "Unit_price": 3.15,
+      "_page": 4,
+      "_pdf": "MTBOWCHEETAHDN2025112425112705251059"
+    },
+    {
+      "line_number": 5,
+      "description": "Semolina",
+      "amount": 22.05,
+      "Quantity": 7.0,
+      "Unit_price": 3.15,
+      "_page": 4,
+      "_pdf": "MTBOWCHEETAHDN2025112425112705251059"
+    },
+    {
+      "line_number": 6,
+      "description": "Dressing 1000 Island",
+      "amount": 8.28,
+      "Quantity": 6.0,
+      "Unit_price": 1.38,
+      "_page": 4,
+      "_pdf": "MTBOWCHEETAHDN2025112425112705251059"
+    },
+    {
+      "line_number": 7,
+      "description": "Sauce Ketchup Tomato Heinz",
+      "amount": 7.38,
+      "Quantity": 6.0,
+      "Unit_price": 1.23,
+      "_page": 4,
+      "_pdf": "MTBOWCHEETAHDN2025112425112705251059"
+    },
+    {
+      "line_number": 8,
+      "description": "Sauce Mayonnaise",
+      "amount": 8.28,
+      "Quantity": 6.0,
+      "Unit_price": 1.38,
+      "_page": 4,
+      "_pdf": "MTBOWCHEETAHDN2025112425112705251059"
+    },
+    {
+      "line_number": 9,
+      "description": "Sauce Mustard French",
+      "amount": 10.86,
+      "Quantity": 6.0,
+      "Unit_price": 1.81,
+      "_page": 4,
+      "_pdf": "MTBOWCHEETAHDN2025112425112705251059"
+    },
+    {
+      "line_number": 10,
+      "description": "Sauce Soya Datu Puti",
+      "amount": 7.76,
+      "Quantity": 2.0,
+      "Unit_price": 3.88,
+      "_page": 4,
+      "_pdf": "MTBOWCHEETAHDN2025112425112705251059"
+    },
+    {
+      "line_number": 11,
+      "description": "Sauce Bbq",
+      "amount": 4.02,
+      "Quantity": 3.0,
+      "Unit_price": 1.34,
+      "_page": 4,
+      "_pdf": "MTBOWCHEETAHDN2025112425112705251059"
+    },
+    {
+      "line_number": 12,
+      "description": "Sauce H.P.",
+      "amount": 8.43,
+      "Quantity": 3.0,
+      "Unit_price": 2.81,
+      "_page": 4,
+      "_pdf": "MTBOWCHEETAHDN2025112425112705251059"
+    },
+    {
+      "line_number": 13,
+      "description": "Sauce Soya Dark",
+      "amount": 1.6,
+      "Quantity": 2.0,
+      "Unit_price": 0.8,
+      "_page": 4,
+      "_pdf": "MTBOWCHEETAHDN2025112425112705251059"
+    },
+    {
+      "line_number": 14,
+      "description": "Sauce Tabasco",
+      "amount": 6.12,
+      "Quantity": 6.0,
+      "Unit_price": 1.02,
+      "_page": 4,
+      "_pdf": "MTBOWCHEETAHDN2025112425112705251059"
+    },
+    {
+      "line_number": 15,
+      "description": "Sauce Italian Dressing",
+      "amount": 23.28,
+      "Quantity": 6.0,
+      "Unit_price": 3.88,
+      "_page": 4,
+      "_pdf": "MTBOWCHEETAHDN2025112425112705251059"
+    },
+    {
+      "line_number": 16,
+      "description": "Sauce Pizza",
+      "amount": 9.0,
+      "Quantity": 6.0,
+      "Unit_price": 1.5,
+      "_page": 4,
+      "_pdf": "MTBOWCHEETAHDN2025112425112705251059"
+    },
+    {
+      "line_number": 17,
+      "description": "Ajwain Rajdhani 500g",
+      "amount": 5.68,
+      "Quantity": 2.0,
+      "Unit_price": 2.84,
+      "_page": 4,
+      "_pdf": "MTBOWCHEETAHDN2025112425112705251059"
+    },
+    {
+      "line_number": 18,
+      "description": "Amchur Powder",
+      "amount": 26.52,
+      "Quantity": 12.0,
+      "Unit_price": 2.21,
+      "_page": 4,
+      "_pdf": "MTBOWCHEETAHDN2025112425112705251059"
+    },
+    {
+      "line_number": 19,
+      "description": "Asafoetida",
+      "amount": 8.52,
+      "Quantity": 3.0,
+      "Unit_price": 2.84,
+      "_page": 4,
+      "_pdf": "MTBOWCHEETAHDN2025112425112705251059"
+    },
+    {
+      "line_number": 20,
+      "description": "Black Salt / Pink Salt",
+      "amount": 7.01,
+      "Quantity": 1.0,
+      "Unit_price": 7.01,
+      "_page": 4,
+      "_pdf": "MTBOWCHEETAHDN2025112425112705251059"
+    },
+    {
+      "line_number": 21,
+      "description": "Black Cardamom Whole Rajdhani 500g",
+      "amount": 14.96,
+      "Quantity": 2.0,
+      "Unit_price": 7.48,
+      "_page": 4,
+      "_pdf": "MTBOWCHEETAHDN2025112425112705251059"
+    },
+    {
+      "line_number": 22,
+      "description": "Green Cardamom Whole",
+      "amount": 27.9,
+      "Quantity": 5.0,
+      "Unit_price": 5.58,
+      "_page": 4,
+      "_pdf": "MTBOWCHEETAHDN2025112425112705251059"
+    },
+    {
+      "line_number": 23,
+      "description": "Chandan 5 In1 Mix",
+      "amount": 5.64,
+      "Quantity": 3.0,
+      "Unit_price": 1.88,
+      "_page": 4,
+      "_pdf": "MTBOWCHEETAHDN2025112425112705251059"
+    },
+    {
+      "line_number": 24,
+      "description": "Colour Red Powder",
+      "amount": 1.88,
+      "Quantity": 1.0,
+      "Unit_price": 1.88,
+      "_page": 4,
+      "_pdf": "MTBOWCHEETAHDN2025112425112705251059"
+    },
+    {
+      "line_number": 25,
+      "description": "Coriander Ground Rajdhani 500g",
+      "amount": 17.68,
+      "Quantity": 8.0,
+      "Unit_price": 2.21,
+      "_page": 4,
+      "_pdf": "MTBOWCHEETAHDN2025112425112705251059"
+    },
+    {
+      "line_number": 26,
+      "description": "Coriander Whole",
+      "amount": 9.08,
+      "Quantity": 2.0,
+      "Unit_price": 4.54,
+      "_page": 4,
+      "_pdf": "MTBOWCHEETAHDN2025112425112705251059"
+    },
+    {
+      "line_number": 27,
+      "description": "Cumin Seeds Rajdhani 500g",
+      "amount": 7.7,
+      "Quantity": 2.0,
+      "Unit_price": 3.85,
+      "_page": 4,
+      "_pdf": "MTBOWCHEETAHDN2025112425112705251059"
+    },
+    {
+      "line_number": 28,
+      "description": "Desiccated Coconut",
+      "amount": 21.3,
+      "Quantity": 6.0,
+      "Unit_price": 3.55,
+      "_page": 4,
+      "_pdf": "MTBOWCHEETAHDN2025112425112705251059"
+    },
+    {
+      "line_number": 29,
+      "description": "Fennel Seeds",
+      "amount": 4.41,
+      "Quantity": 1.0,
+      "Unit_price": 4.41,
+      "_page": 4,
+      "_pdf": "MTBOWCHEETAHDN2025112425112705251059"
+    },
+    {
+      "line_number": 30,
+      "description": "Mace Javitrih",
+      "amount": 4.41,
+      "Quantity": 1.0,
+      "Unit_price": 4.41,
+      "_page": 4,
+      "_pdf": "MTBOWCHEETAHDN2025112425112705251059"
+    },
+    {
+      "line_number": 31,
+      "description": "Maggi Seasoning",
+      "amount": 4.5,
+      "Quantity": 3.0,
+      "Unit_price": 1.5,
+      "_page": 4,
+      "_pdf": "MTBOWCHEETAHDN2025112425112705251059"
+    },
+    {
+      "line_number": 32,
+      "description": "Masala Ghat",
+      "amount": 21.72,
+      "Quantity": 12.0,
+      "Unit_price": 1.81,
+      "_page": 4,
+      "_pdf": "MTBOWCHEETAHDN2025112425112705251059"
+    },
+    {
+      "line_number": 33,
+      "description": "Masala Garam",
+      "amount": 41.0,
+      "Quantity": 20.0,
+      "Unit_price": 2.05,
+      "_page": 4,
+      "_pdf": "MTBOWCHEETAHDN2025112425112705251059"
+    },
+    {
+      "line_number": 34,
+      "description": "Masala Kitchen King",
+      "amount": 6.15,
+      "Quantity": 3.0,
+      "Unit_price": 2.05,
+      "_page": 4,
+      "_pdf": "MTBOWCHEETAHDN2025112425112705251059"
+    },
+    {
+      "line_number": 35,
+      "description": "Nutmeg Powder",
+      "amount": 3.15,
+      "Quantity": 1.0,
+      "Unit_price": 3.15,
+      "_page": 4,
+      "_pdf": "MTBOWCHEETAHDN2025112425112705251059"
+    },
+    {
+      "line_number": 36,
+      "description": "Black Pepper Corns Whole",
+      "amount": 10.8,
+      "Quantity": 1.0,
+      "Unit_price": 10.8,
+      "_page": 4,
+      "_pdf": "MTBOWCHEETAHDN2025112425112705251059"
+    },
+    {
+      "line_number": 37,
+      "description": "Powder Chilli Tikhahal",
+      "amount": 5.64,
+      "Quantity": 3.0,
+      "Unit_price": 1.88,
+      "_page": 4,
+      "_pdf": "MTBOWCHEETAHDN2025112425112705251059"
+    },
+    {
+      "line_number": 38,
+      "description": "Masala Sambar",
+      "amount": 24.6,
+      "Quantity": 12.0,
+      "Unit_price": 2.05,
+      "_page": 4,
+      "_pdf": "MTBOWCHEETAHDN2025112425112705251059"
+    },
+    {
+      "line_number": 39,
+      "description": "Dried Red Chili",
+      "amount": 8.82,
+      "Quantity": 2.0,
+      "Unit_price": 4.41,
+      "_page": 4,
+      "_pdf": "MTBOWCHEETAHDN2025112425112705251059"
+    },
+    {
+      "line_number": 40,
+      "description": "Saffron",
+      "amount": 19.86,
+      "Quantity": 6.0,
+      "Unit_price": 3.31,
+      "_page": 4,
+      "_pdf": "MTBOWCHEETAHDN2025112425112705251059"
+    },
+    {
+      "line_number": 41,
+      "description": "Salt Cooking",
+      "amount": 13.5,
+      "Quantity": 25.0,
+      "Unit_price": 0.54,
+      "_page": 4,
+      "_pdf": "MTBOWCHEETAHDN2025112425112705251059"
+    },
+    {
+      "line_number": 42,
+      "description": "Jaggery Cubes 500g",
+      "amount": 70.56,
+      "Quantity": 16.0,
+      "Unit_price": 4.41,
+      "_page": 4,
+      "_pdf": "MTBOWCHEETAHDN2025112425112705251059"
+    },
+    {
+      "line_number": 43,
+      "description": "Sugar White",
+      "amount": 82.8,
+      "Quantity": 60.0,
+      "Unit_price": 1.38,
+      "_page": 4,
+      "_pdf": "MTBOWCHEETAHDN2025112425112705251059"
+    },
+    {
+      "line_number": 44,
+      "description": "Bournvita",
+      "amount": 15.16,
+      "Quantity": 2.0,
+      "Unit_price": 7.58,
+      "_page": 4,
+      "_pdf": "MTBOWCHEETAHDN2025112425112705251059"
+    },
+    {
+      "line_number": 45,
+      "description": "Coffee Nescafe",
+      "amount": 36.48,
+      "Quantity": 6.0,
+      "Unit_price": 6.08,
+      "_page": 4,
+      "_pdf": "MTBOWCHEETAHDN2025112425112705251059"
+    },
+    {
+      "line_number": 1,
+      "description": "Coffee Nescafe Gold",
+      "amount": 60.6,
+      "Quantity": 12.0,
+      "Unit_price": 5.05,
+      "_page": 5,
+      "_pdf": "MTBOWCHEETAHDN2025112425112705251059"
+    },
+    {
+      "line_number": 2,
+      "description": "Horlicks",
+      "amount": 15.16,
+      "Quantity": 2.0,
+      "Unit_price": 7.58,
+      "_page": 5,
+      "_pdf": "MTBOWCHEETAHDN2025112425112705251059"
+    },
+    {
+      "line_number": 3,
+      "description": "Milk Powder Nido",
+      "amount": 30.16,
+      "Quantity": 2.0,
+      "Unit_price": 15.08,
+      "_page": 5,
+      "_pdf": "MTBOWCHEETAHDN2025112425112705251059"
+    },
+    {
+      "line_number": 4,
+      "description": "Milo",
+      "amount": 13.14,
+      "Quantity": 3.0,
+      "Unit_price": 4.38,
+      "_page": 5,
+      "_pdf": "MTBOWCHEETAHDN2025112425112705251059"
+    },
+    {
+      "line_number": 5,
+      "description": "Tea Bag Wagh Bakri Premium",
+      "amount": 31.9,
+      "Quantity": 5.0,
+      "Unit_price": 6.38,
+      "_page": 5,
+      "_pdf": "MTBOWCHEETAHDN2025112425112705251059"
+    },
+    {
+      "line_number": 6,
+      "description": "Tea Bag Lemon Green",
+      "amount": 11.24,
+      "Quantity": 4.0,
+      "Unit_price": 2.81,
+      "_page": 5,
+      "_pdf": "MTBOWCHEETAHDN2025112425112705251059"
+    },
+    {
+      "line_number": 7,
+      "description": "Tea Powder Red Lable",
+      "amount": 21.54,
+      "Quantity": 3.0,
+      "Unit_price": 7.18,
+      "_page": 5,
+      "_pdf": "MTBOWCHEETAHDN2025112425112705251059"
+    },
+    {
+      "line_number": 8,
+      "description": "Beans French",
+      "amount": 34.2,
+      "Quantity": 15.0,
+      "Unit_price": 2.28,
+      "_page": 5,
+      "_pdf": "MTBOWCHEETAHDN2025112425112705251059"
+    },
+    {
+      "line_number": 9,
+      "description": "Beans Long",
+      "amount": 10.9,
+      "Quantity": 5.0,
+      "Unit_price": 2.18,
+      "_page": 5,
+      "_pdf": "MTBOWCHEETAHDN2025112425112705251059"
+    },
+    {
+      "line_number": 10,
+      "description": "Beetroot",
+      "amount": 17.5,
+      "Quantity": 10.0,
+      "Unit_price": 1.75,
+      "_page": 5,
+      "_pdf": "MTBOWCHEETAHDN2025112425112705251059"
+    },
+    {
+      "line_number": 11,
+      "description": "Brocolli",
+      "amount": 42.6,
+      "Quantity": 15.0,
+      "Unit_price": 2.84,
+      "_page": 5,
+      "_pdf": "MTBOWCHEETAHDN2025112425112705251059"
+    },
+    {
+      "line_number": 12,
+      "description": "Cabbage Green",
+      "amount": 14.6,
+      "Quantity": 20.0,
+      "Unit_price": 0.73,
+      "_page": 5,
+      "_pdf": "MTBOWCHEETAHDN2025112425112705251059"
+    },
+    {
+      "line_number": 13,
+      "description": "Capsicum Green",
+      "amount": 13.16,
+      "Quantity": 7.0,
+      "Unit_price": 1.88,
+      "_page": 5,
+      "_pdf": "MTBOWCHEETAHDN2025112425112705251059"
+    },
+    {
+      "line_number": 14,
+      "description": "Capsicum Red",
+      "amount": 17.75,
+      "Quantity": 5.0,
+      "Unit_price": 3.55,
+      "_page": 5,
+      "_pdf": "MTBOWCHEETAHDN2025112425112705251059"
+    },
+    {
+      "line_number": 15,
+      "description": "Capsicum Yellow",
+      "amount": 27.75,
+      "Quantity": 5.0,
+      "Unit_price": 5.55,
+      "_page": 5,
+      "_pdf": "MTBOWCHEETAHDN2025112425112705251059"
+    },
+    {
+      "line_number": 16,
+      "description": "Carrots",
+      "amount": 24.0,
+      "Quantity": 30.0,
+      "Unit_price": 0.8,
+      "_page": 5,
+      "_pdf": "MTBOWCHEETAHDN2025112425112705251059"
+    },
+    {
+      "line_number": 17,
+      "description": "Cauliflower",
+      "amount": 50.5,
+      "Quantity": 25.0,
+      "Unit_price": 2.02,
+      "_page": 5,
+      "_pdf": "MTBOWCHEETAHDN2025112425112705251059"
+    },
+    {
+      "line_number": 18,
+      "description": "Chili Green",
+      "amount": 9.1,
+      "Quantity": 5.0,
+      "Unit_price": 1.82,
+      "_page": 5,
+      "_pdf": "MTBOWCHEETAHDN2025112425112705251059"
+    },
+    {
+      "line_number": 19,
+      "description": "Coconut Brown",
+      "amount": 61.25,
+      "Quantity": 25.0,
+      "Unit_price": 2.45,
+      "_page": 5,
+      "_pdf": "MTBOWCHEETAHDN2025112425112705251059"
+    },
+    {
+      "line_number": 20,
+      "description": "Coriander Leaves",
+      "amount": 17.64,
+      "Quantity": 3.0,
+      "Unit_price": 5.88,
+      "_page": 5,
+      "_pdf": "MTBOWCHEETAHDN2025112425112705251059"
+    },
+    {
+      "line_number": 21,
+      "description": "Cucumber (Large)",
+      "amount": 17.1,
+      "Quantity": 10.0,
+      "Unit_price": 1.71,
+      "_page": 5,
+      "_pdf": "MTBOWCHEETAHDN2025112425112705251059"
+    },
+    {
+      "line_number": 22,
+      "description": "Curry Leaves Fresh",
+      "amount": 21.68,
+      "Quantity": 2.0,
+      "Unit_price": 10.84,
+      "_page": 5,
+      "_pdf": "MTBOWCHEETAHDN2025112425112705251059"
+    },
+    {
+      "line_number": 23,
+      "description": "Egg Plant (Aubergines)",
+      "amount": 34.5,
+      "Quantity": 25.0,
+      "Unit_price": 1.38,
+      "_page": 5,
+      "_pdf": "MTBOWCHEETAHDN2025112425112705251059"
+    },
+    {
+      "line_number": 24,
+      "description": "Garlic",
+      "amount": 21.4,
+      "Quantity": 10.0,
+      "Unit_price": 2.14,
+      "_page": 5,
+      "_pdf": "MTBOWCHEETAHDN2025112425112705251059"
+    },
+    {
+      "line_number": 25,
+      "description": "Ginger",
+      "amount": 33.75,
+      "Quantity": 15.0,
+      "Unit_price": 2.25,
+      "_page": 5,
+      "_pdf": "MTBOWCHEETAHDN2025112425112705251059"
+    },
+    {
+      "line_number": 26,
+      "description": "Gourd Bitter",
+      "amount": 22.56,
+      "Quantity": 12.0,
+      "Unit_price": 1.88,
+      "_page": 5,
+      "_pdf": "MTBOWCHEETAHDN2025112425112705251059"
+    },
+    {
+      "line_number": 27,
+      "description": "Gourd Bottle",
+      "amount": 16.2,
+      "Quantity": 15.0,
+      "Unit_price": 1.08,
+      "_page": 5,
+      "_pdf": "MTBOWCHEETAHDN2025112425112705251059"
+    },
+    {
+      "line_number": 28,
+      "description": "Lettuce (Iceberg)",
+      "amount": 19.88,
+      "Quantity": 7.0,
+      "Unit_price": 2.84,
+      "_page": 5,
+      "_pdf": "MTBOWCHEETAHDN2025112425112705251059"
+    },
+    {
+      "line_number": 29,
+      "description": "Mint Leaves Fresh",
+      "amount": 13.62,
+      "Quantity": 3.0,
+      "Unit_price": 4.54,
+      "_page": 5,
+      "_pdf": "MTBOWCHEETAHDN2025112425112705251059"
+    },
+    {
+      "line_number": 30,
+      "description": "Shiitake Mushroom",
+      "amount": 25.8,
+      "Quantity": 10.0,
+      "Unit_price": 2.58,
+      "_page": 5,
+      "_pdf": "MTBOWCHEETAHDN2025112425112705251059"
+    },
+    {
+      "line_number": 31,
+      "description": "Okra Fresh",
+      "amount": 49.2,
+      "Quantity": 15.0,
+      "Unit_price": 3.28,
+      "_page": 5,
+      "_pdf": "MTBOWCHEETAHDN2025112425112705251059"
+    },
+    {
+      "line_number": 32,
+      "description": "Onion Red",
+      "amount": 54.4,
+      "Quantity": 80.0,
+      "Unit_price": 0.68,
+      "_page": 5,
+      "_pdf": "MTBOWCHEETAHDN2025112425112705251059"
+    },
+    {
+      "line_number": 33,
+      "description": "Onion Spring",
+      "amount": 5.64,
+      "Quantity": 3.0,
+      "Unit_price": 1.88,
+      "_page": 5,
+      "_pdf": "MTBOWCHEETAHDN2025112425112705251059"
+    },
+    {
+      "line_number": 34,
+      "description": "Palak Spinach",
+      "amount": 42.6,
+      "Quantity": 15.0,
+      "Unit_price": 2.84,
+      "_page": 5,
+      "_pdf": "MTBOWCHEETAHDN2025112425112705251059"
+    },
+    {
+      "line_number": 35,
+      "description": "Potatoes",
+      "amount": 54.4,
+      "Quantity": 80.0,
+      "Unit_price": 0.68,
+      "_page": 5,
+      "_pdf": "MTBOWCHEETAHDN2025112425112705251059"
+    },
+    {
+      "line_number": 36,
+      "description": "Pumpkin Yellow",
+      "amount": 7.5,
+      "Quantity": 10.0,
+      "Unit_price": 0.75,
+      "_page": 5,
+      "_pdf": "MTBOWCHEETAHDN2025112425112705251059"
+    },
+    {
+      "line_number": 37,
+      "description": "Squash Green",
+      "amount": 15.4,
+      "Quantity": 10.0,
+      "Unit_price": 1.54,
+      "_page": 5,
+      "_pdf": "MTBOWCHEETAHDN2025112425112705251059"
+    },
+    {
+      "line_number": 38,
+      "description": "Tomatoes (Half Ripe)",
+      "amount": 70.0,
+      "Quantity": 50.0,
+      "Unit_price": 1.4,
+      "_page": 5,
+      "_pdf": "MTBOWCHEETAHDN2025112425112705251059"
+    },
+    {
+      "line_number": 39,
+      "description": "Q.F. French Beans",
+      "amount": 2.68,
+      "Quantity": 2.0,
+      "Unit_price": 1.34,
+      "_page": 5,
+      "_pdf": "MTBOWCHEETAHDN2025112425112705251059"
+    },
+    {
+      "line_number": 40,
+      "description": "Q.F. Broccoli",
+      "amount": 2.64,
+      "Quantity": 2.0,
+      "Unit_price": 1.32,
+      "_page": 5,
+      "_pdf": "MTBOWCHEETAHDN2025112425112705251059"
+    },
+    {
+      "line_number": 41,
+      "description": "Q.F. Cauliflower",
+      "amount": 3.96,
+      "Quantity": 3.0,
+      "Unit_price": 1.32,
+      "_page": 5,
+      "_pdf": "MTBOWCHEETAHDN2025112425112705251059"
+    },
+    {
+      "line_number": 42,
+      "description": "Q.F. Corn Kernels",
+      "amount": 13.2,
+      "Quantity": 10.0,
+      "Unit_price": 1.32,
+      "_page": 5,
+      "_pdf": "MTBOWCHEETAHDN2025112425112705251059"
+    },
+    {
+      "line_number": 43,
+      "description": "Q.F. French Fries",
+      "amount": 15.8,
+      "Quantity": 10.0,
+      "Unit_price": 1.58,
+      "_page": 5,
+      "_pdf": "MTBOWCHEETAHDN2025112425112705251059"
+    },
+    {
+      "line_number": 44,
+      "description": "Q.F. Green Peas",
+      "amount": 6.6,
+      "Quantity": 5.0,
+      "Unit_price": 1.32,
+      "_page": 5,
+      "_pdf": "MTBOWCHEETAHDN2025112425112705251059"
+    },
+    {
+      "line_number": 45,
+      "description": "Q.F. Spinach",
+      "amount": 6.6,
+      "Quantity": 5.0,
+      "Unit_price": 1.32,
+      "_page": 5,
+      "_pdf": "MTBOWCHEETAHDN2025112425112705251059"
+    },
+    {
+      "line_number": 1,
+      "description": "Q.F. Vegetables Mixed",
+      "amount": 3.96,
+      "Quantity": 3.0,
+      "Unit_price": 1.32,
+      "_page": 6,
+      "_pdf": "MTBOWCHEETAHDN2025112425112705251059"
+    },
+    {
+      "line_number": 2,
+      "description": "Q.F. Veg. Patties",
+      "amount": 12.06,
+      "Quantity": 3.0,
+      "Unit_price": 4.02,
+      "_page": 6,
+      "_pdf": "MTBOWCHEETAHDN2025112425112705251059"
+    },
+    {
+      "line_number": 3,
+      "description": "Almonds Nuts / Raw / Plain",
+      "amount": 38.52,
+      "Quantity": 3.0,
+      "Unit_price": 12.84,
+      "_page": 6,
+      "_pdf": "MTBOWCHEETAHDN2025112425112705251059"
+    },
+    {
+      "line_number": 4,
+      "description": "Dal Black Eyed Beans",
+      "amount": 7.14,
+      "Quantity": 3.0,
+      "Unit_price": 2.38,
+      "_page": 6,
+      "_pdf": "MTBOWCHEETAHDN2025112425112705251059"
+    },
+    {
+      "line_number": 5,
+      "description": "Dal Rajma / Red Kidney Beans",
+      "amount": 12.75,
+      "Quantity": 5.0,
+      "Unit_price": 2.55,
+      "_page": 6,
+      "_pdf": "MTBOWCHEETAHDN2025112425112705251059"
+    },
+    {
+      "line_number": 6,
+      "description": "Cashew Nuts / Raw / Plain",
+      "amount": 34.74,
+      "Quantity": 3.0,
+      "Unit_price": 11.58,
+      "_page": 6,
+      "_pdf": "MTBOWCHEETAHDN2025112425112705251059"
+    },
+    {
+      "line_number": 7,
+      "description": "Dal Chana Black",
+      "amount": 14.4,
+      "Quantity": 5.0,
+      "Unit_price": 2.88,
+      "_page": 6,
+      "_pdf": "MTBOWCHEETAHDN2025112425112705251059"
+    },
+    {
+      "line_number": 8,
+      "description": "Dal Chana Kabuli",
+      "amount": 19.88,
+      "Quantity": 7.0,
+      "Unit_price": 2.84,
+      "_page": 6,
+      "_pdf": "MTBOWCHEETAHDN2025112425112705251059"
+    },
+    {
+      "line_number": 9,
+      "description": "Dal Yellow Chana Split",
+      "amount": 11.9,
+      "Quantity": 5.0,
+      "Unit_price": 2.38,
+      "_page": 6,
+      "_pdf": "MTBOWCHEETAHDN2025112425112705251059"
+    },
+    {
+      "line_number": 10,
+      "description": "Dal Chana Roasted",
+      "amount": 8.82,
+      "Quantity": 2.0,
+      "Unit_price": 4.41,
+      "_page": 6,
+      "_pdf": "MTBOWCHEETAHDN2025112425112705251059"
+    },
+    {
+      "line_number": 11,
+      "description": "Dal Green Moong Whole",
+      "amount": 12.2,
+      "Quantity": 5.0,
+      "Unit_price": 2.44,
+      "_page": 6,
+      "_pdf": "MTBOWCHEETAHDN2025112425112705251059"
+    },
+    {
+      "line_number": 12,
+      "description": "Dal Red Masoor Whole",
+      "amount": 14.2,
+      "Quantity": 5.0,
+      "Unit_price": 2.84,
+      "_page": 6,
+      "_pdf": "MTBOWCHEETAHDN2025112425112705251059"
+    },
+    {
+      "line_number": 13,
+      "description": "Dal Toor Split Indian Original",
+      "amount": 12.3,
+      "Quantity": 3.0,
+      "Unit_price": 4.1,
+      "_page": 6,
+      "_pdf": "MTBOWCHEETAHDN2025112425112705251059"
+    },
+    {
+      "line_number": 14,
+      "description": "Dal Urad White Whole Without Skin",
+      "amount": 33.8,
+      "Quantity": 10.0,
+      "Unit_price": 3.38,
+      "_page": 6,
+      "_pdf": "MTBOWCHEETAHDN2025112425112705251059"
+    },
+    {
+      "line_number": 15,
+      "description": "Dal Urad Black With Skin",
+      "amount": 9.45,
+      "Quantity": 3.0,
+      "Unit_price": 3.15,
+      "_page": 6,
+      "_pdf": "MTBOWCHEETAHDN2025112425112705251059"
+    },
+    {
+      "line_number": 16,
+      "description": "Date Crown Fard Dates 250g",
+      "amount": 42.6,
+      "Quantity": 20.0,
+      "Unit_price": 2.13,
+      "_page": 6,
+      "_pdf": "MTBOWCHEETAHDN2025112425112705251059"
+    },
+    {
+      "line_number": 17,
+      "description": "Raw Peanuts Without Shell",
+      "amount": 5.04,
+      "Quantity": 2.0,
+      "Unit_price": 2.52,
+      "_page": 6,
+      "_pdf": "MTBOWCHEETAHDN2025112425112705251059"
+    },
+    {
+      "line_number": 18,
+      "description": "Dal Green Moong Split",
+      "amount": 8.43,
+      "Quantity": 3.0,
+      "Unit_price": 2.81,
+      "_page": 6,
+      "_pdf": "MTBOWCHEETAHDN2025112425112705251059"
+    },
+    {
+      "line_number": 19,
+      "description": "Dal Yellow Moong Split",
+      "amount": 8.34,
+      "Quantity": 3.0,
+      "Unit_price": 2.78,
+      "_page": 6,
+      "_pdf": "MTBOWCHEETAHDN2025112425112705251059"
+    },
+    {
+      "line_number": 20,
+      "description": "Pistachio",
+      "amount": 27.76,
+      "Quantity": 2.0,
+      "Unit_price": 13.88,
+      "_page": 6,
+      "_pdf": "MTBOWCHEETAHDN2025112425112705251059"
+    },
+    {
+      "line_number": 21,
+      "description": "Baked Beans",
+      "amount": 10.56,
+      "Quantity": 12.0,
+      "Unit_price": 0.88,
+      "_page": 6,
+      "_pdf": "MTBOWCHEETAHDN2025112425112705251059"
+    },
+    {
+      "line_number": 22,
+      "description": "Corn Sweet",
+      "amount": 3.6,
+      "Quantity": 6.0,
+      "Unit_price": 0.6,
+      "_page": 6,
+      "_pdf": "MTBOWCHEETAHDN2025112425112705251059"
+    },
+    {
+      "line_number": 23,
+      "description": "Mushroom Sliced",
+      "amount": 5.7,
+      "Quantity": 6.0,
+      "Unit_price": 0.95,
+      "_page": 6,
+      "_pdf": "MTBOWCHEETAHDN2025112425112705251059"
+    },
+    {
+      "line_number": 24,
+      "description": "Tomato Peeled",
+      "amount": 10.56,
+      "Quantity": 12.0,
+      "Unit_price": 0.88,
+      "_page": 6,
+      "_pdf": "MTBOWCHEETAHDN2025112425112705251059"
+    },
+    {
+      "line_number": 25,
+      "description": "Tomato Paste",
+      "amount": 14.76,
+      "Quantity": 12.0,
+      "Unit_price": 1.23,
+      "_page": 6,
+      "_pdf": "MTBOWCHEETAHDN2025112425112705251059"
+    },
+    {
+      "line_number": 26,
+      "description": "Tea Bag Lipton Yellow Label",
+      "amount": 32.75,
+      "Quantity": 5.0,
+      "Unit_price": 6.55,
+      "_page": 6,
+      "_pdf": "MTBOWCHEETAHDN2025112425112705251059"
+    }
+  ],
+  "failed_pages": []
+}
